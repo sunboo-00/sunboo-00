@@ -34,7 +34,7 @@
 
 用统一命名空间管理多家模型后端，一个变量整体切换；带强制行为约束层与跨会话长期记忆系统。
 
-### [515880 跟踪系统 — 把交易分析做成可执行的工程链路](https://github.com/sunboo-00/sunboo-os/blob/main/03-515880%E8%B7%9F%E8%B8%AA%E7%B3%BB%E7%BB%9F.md)
+### [标的跟踪分析系统 — 把交易分析做成可执行的工程链路](https://github.com/sunboo-00/sunboo-os/blob/main/03-%E6%A0%87%E7%9A%84%E8%B7%9F%E8%B8%AA%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F.md)
 
 **五层骨架 · 十项铁律 · 25 个核心工具**
 
